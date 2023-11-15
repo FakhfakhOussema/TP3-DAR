@@ -1,2 +1,2 @@
-module APPREPARTIESTP3_1 {
+module APPREPARTIESTP3_2 {
 }
